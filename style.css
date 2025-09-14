@@ -1,6 +1,6 @@
 
 body {
-	background: #f0f4f8;
+	background: #ae7878;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -14,6 +14,6 @@ h1 {
 }
 
 .icon {
-	width: 150px;
+	width: 250px;
 	margin-top: 10px;
 }
